@@ -1,0 +1,5 @@
+./server to run server , port is hardcoded
+./client <inputfile> <num_threads> <outputfile>
+input file data should be divided into segments and tranferred to new created output file
+create_test_files.sh (chmod +x) to create dummy files for testing 
+tests.sh for 9 testcases
